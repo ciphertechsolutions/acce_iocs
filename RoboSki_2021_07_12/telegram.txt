@@ -1,0 +1,17 @@
+https://api.telegram.org/bot1171994922:AAHrYAv7JIpM5hzPMScAJJOdE7TBb00NwJY/sendDocument?chat_id=1194949947
+https://api.telegram.org/bot1324911145:AAEQBcai78GJtNdHHMwAX0xQhP0p7EcyOuo/sendDocument
+https://api.telegram.org/bot1338829993:AAGkgJ80sLaIYwBfp79Ps5EtdSP1XH6jBV8/sendDocument
+https://api.telegram.org/bot1360033246:AAF6H8m6YrL09doyxtsvJzZ_cIl__BCF4aU/sendDocument
+https://api.telegram.org/bot1430995407:AAHXagqOb3lOiloF-tdsg1GOLPStlDuzDNw/sendDocument
+https://api.telegram.org/bot1458888479:AAHSXDnFtrm__cda1FZqvubuCqxkXMwF4KU/sendDocument?chat_id=1021854756
+https://api.telegram.org/bot1463238323:AAGtI1JM_Kj38d1Y2cvi15DJ_j42pVQvMNI/sendDocument
+https://api.telegram.org/bot1484531788:AAGRon9og6m-jLOQUDSFX2tglHfTt3BHea8/sendDocument
+https://api.telegram.org/bot1486952527:AAHvvJmG-WgJZgXIQPo_BDv7llcA7hx4Mkk/sendDocument
+https://api.telegram.org/bot1602937611:AAEOIU1K5xKEVHdfqJXcFCg6EQE57PjXejE/sendDocument?chat_id=1644584536
+https://api.telegram.org/bot1620053426:AAGpmctWcoS-k28iJ5dj1-cZj2bB8hfZIvE/sendDocument
+https://api.telegram.org/bot1628099890:AAEoyPqXzUZV0NK78yRGbDMLJqRw0vcASbg/sendDocument?chat_id=1217600190
+https://api.telegram.org/bot1634002210:AAGipukUEr-bNBgl2R1_hwFgfb9ez_v6wzE/sendDocument?chat_id=1401219117
+https://api.telegram.org/bot1639860460:AAFodZZflpk6FK55XW73pn3eDr7Y-iYdxlA/sendDocument
+https://api.telegram.org/bot1646835441:AAHIh3Hnz82ZJP3qFuiRkuX3NPxmTGZc2sY/sendDocument
+https://api.telegram.org/bot1666837595:AAGlp37K0Ka4UBYoBU32MJpm1pdXZsT3hoE/sendDocument
+https://api.telegram.org/bot1695903584:AAE9jZFE8AIhWxq03hXiXD2S3JJBWl4J5Ws/sendDocument
